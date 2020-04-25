@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>成长之路</title>
+    <link>https://bbwa.github.io/</link>
+    <description>Recent content on 成长之路</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 25 Apr 2020 12:36:10 +0800</lastBuildDate>
+    
+        <atom:link href="https://bbwa.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://bbwa.github.io/about/</link>
+      <pubDate>Sat, 25 Apr 2020 12:36:10 +0800</pubDate>
+      
+      <guid>https://bbwa.github.io/about/</guid>
+      <description>&lt;h3 id=&#34;好好学习天天向上&#34;&gt;好好学习，天天向上&lt;/h3&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
